@@ -1,5 +1,5 @@
 /**
- * Created by PC on 4/28/2016.
+ * Created by Jr Reyes on 4/28/2016.
  */
 'use strict';
 //Traditional way of calling a function
